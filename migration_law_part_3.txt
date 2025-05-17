@@ -1,0 +1,1414 @@
+rument under this Act. 
+
+(4) 
+To remove doubt, the Minister does not have any responsibility or obligation to: 
+
+(a) 
+specify, or assist in specifying, any particulars of the non-citizens claim; or 
+
+(b) 
+establish, or assist in establishing, the claim. 
+
+
+5AA Meaning of unauthorised maritime arrival 
+(1) For the purposes of this Act, a person is an unauthorised maritime arrival if: 
+Migration Act 1958 
+Part 1  Preliminary Section 5AA 
+(a) 
+the person entered Australia by sea: 
+
+(i) 
+at an excised offshore place at any time after the excision time for that place; or 
+
+(ii) 
+at any other place at any time on or after the commencement of this section; and 
+
+(b) 
+the person became an unlawful non-citizen because of that entry; and 
+
+(c) 
+the person is not an excluded maritime arrival. 
+
+
+(1A) For the purposes of this Act, a person is also an unauthorised maritime arrival if: 
+(a) 
+the person is born in the migration zone; and 
+
+(b) 
+a parent of the person is, at the time of the persons birth, an unauthorised maritime arrival because of subsection (1) (no matter where that parent is at the time of the birth); and 
+
+(c) 
+the person is not an Australian citizen at the time of birth. 
+
+
+Note 1: For who is a parent of a person, see the definition in subsection 5(1) and section 5CA. 
+Note 2: A parent of the person may be an unauthorised maritime arrival even if the parent holds, or has held, a visa. 
+Note 3: A person to whom this subsection applies is an unauthorised maritime arrival even if the person is taken to have been granted a visa because of section 78 (which deals with the birth in Australia of non-citizens). 
+Note 4: For when a person is an Australian citizen at the time of his or her birth, see section 12 of the Australian Citizenship Act 2007. 
+Note 5: This subsection applies even if the person was born before the commencement of the subsection. See the Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Act 2014. 
+(1AA) For the purposes of this Act, a person is also an unauthorised maritime arrival if: 
+(a) 
+the person is born in a regional processing country; and 
+
+(b) 
+a parent of the person is, at the time of the persons birth, an unauthorised maritime arrival because of subsection (1) (no matter where that parent is at the time of the birth); and 
+
+
+Migration Act 1958 
+Preliminary  Part 1 Section 5AA 
+(c) the person is not an Australian citizen at the time of his or her birth. 
+Note 1: A parent of the person may be an unauthorised maritime arrival even if the parent holds, or has held, a visa. 
+Note 2: This Act may apply as mentioned in subsection (1AA) even if either or both parents of the person holds a visa, or is an Australian citizen or a citizen of the regional processing country, at the time of the persons birth. 
+Note 3: This subsection applies even if the person was born before the commencement of the subsection. See the Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Act 2014. 
+Entered Australia by sea 
+(2) 
+A person entered Australia by sea if: 
+
+(a) 
+the person entered the migration zone except on an aircraft that landed in the migration zone; or 
+
+(b) 
+the person entered the migration zone as a result of being found on a ship detained under section 245F (as in force before the commencement of section 69 of the Maritime Powers Act 2013) and being dealt with under paragraph 245F(9)(a) (as in force before that commencement); or 
+
+
+(ba) the person entered the migration zone as a result of the exercise of powers under Division 7 or 8 of Part 3 of the Maritime Powers Act 2013; or 
+(c) the person entered the migration zone after being rescued at sea. 
+Excluded maritime arrival 
+(3) 
+A person is an excluded maritime arrival if the person: 
+
+(a) 
+is a New Zealand citizen who holds and produces a New Zealand passport that is in force; or 
+
+(b) 
+is a non-citizen who: 
+
+(i) 
+holds and produces a passport that is in force; and 
+
+(ii) 
+is ordinarily resident on Norfolk Island; or 
+
+
+Migration Act 1958 
+Part 1  Preliminary Section 5AB 
+(c) is included in a prescribed class of persons. 
+Definitions 
+(4) In this section: 
+aircraft has the same meaning as in section 245A. 
+ship has the meaning given by section 245A (as in force before the commencement of section 69 of the Maritime Powers Act 2013). 
+Note: An unauthorised maritime arrival who has been taken to a place outside Australia may also be a transitory person: see the definition of transitory person in subsection 5(1). 
+5AB Sentencing for offences 
+The provisions of this Act and the regulations apply no differently in relation to a single sentence imposed by a court in respect of 2 or more offences to the way in which those provisions apply in relation to a sentence imposed by a court in respect of a single offence. 
+Example: Paragraph 501(7)(c) applies in relation to a person sentenced to a term of imprisonment of 12 months or more. Because of this section, that paragraph applies in relation to a person sentenced to such a term, whether the sentence is imposed for a single offence or for 2 or more offences. 
+5A Meaning of personal identifier 
+(1) In this Act: 
+personal identifier means any of the following (including any of the following in digital form): 
+(a) 
+fingerprints or handprints of a person (including those taken using paper and ink or digital livescanning technologies); 
+
+(b) 
+a measurement of a persons height and weight; 
+
+(c) 
+a photograph or other image of a persons face and shoulders; 
+
+(d) 
+an audio or a video recording of a person (other than a video recording under section 261AJ); 
+
+
+Migration Act 1958 
+Preliminary  Part 1 Section 5A 
+(e) 
+an iris scan; 
+
+(f) 
+a persons signature; 
+
+(g) 
+any other identifier prescribed by the regulations, other than an identifier the obtaining of which would involve the carrying out of an intimate forensic procedure within the meaning of section 23WA of the Crimes Act 1914. 
+
+(2) 
+Before the Governor-General makes regulations for the purposes of paragraph (1)(g) prescribing an identifier, the Minister must be satisfied that: 
+
+(a) 
+obtaining the identifier would not involve the carrying out of an intimate forensic procedure within the meaning of section 23WA of the Crimes Act 1914; and 
+
+(b) 
+the identifier is an image of, or a measurement or recording of, an external part of the body; and 
+
+(c) 
+obtaining the identifier will promote one or more of the purposes referred to in subsection (3). 
+
+(3) 
+The purposes are: 
+
+(a) 
+to assist in the identification of, and to authenticate the identity of, any person who can be required under this Act to provide a personal identifier; and 
+
+(b) 
+to assist in identifying, in the future, any such person; and 
+
+(c) 
+to improve the integrity of entry programs; and (ca) to improve passenger processing at Australias border; and 
+
+(d) 
+to facilitate a visa-holders access to his or her rights under this Act or the regulations; and 
+
+(e) 
+to improve the procedures for determining visa applications; and 
+
+(f) 
+to improve the procedures for determining claims from people seeking protection as refugees; and 
+
+
+(fa) to assist in determining whether a person is an unlawful non-citizen or a lawful non-citizen; and 
+(g) to enhance the Departments ability to identify non-citizens who have a criminal history or who are of character concern; and 
+Migration Act 1958 
+Part 1  Preliminary 
+Section 5B 
+(ga) to assist in identifying persons who may be a security concern to Australia or a foreign country; and 
+(h) 
+to combat document and identity fraud in immigration matters; and 
+
+(i) 
+to detect forum shopping by applicants for visas; and 
+
+(j) 
+to ascertain whether: 
+
+(i) 
+an applicant for a protection visa; or 
+
+(ii) 
+an unauthorised maritime arrival who makes a claim for protection as a refugee; or 
+
+
+(iii) an unauthorised maritime arrival who makes a claim for protection on the basis that the person will suffer significant harm; 
+had sufficient opportunity to avail himself or herself of protection before arriving in Australia; and 
+(k) 
+to complement anti-people smuggling measures; and 
+
+(l) 
+to inform the governments of foreign countries of the identity of non-citizens who are, or are to be, removed or deported from Australia. 
+
+
+5B When personal identifier taken not to have been provided 
+A person is taken, for the purposes of section 257A, not to have provided a personal identifier if: 
+(a) 
+the personal identifier that is provided is unusable; or 
+
+(b) 
+the Minister, an authorised officer or an officer is not satisfied: 
+
+(i) 
+about the integrity or quality of the personal identifier that is provided; or 
+
+(ii) 
+about the procedure followed to obtain the personal identifier. 
+
+
+Migration Act 1958 
+Preliminary  Part 1 Section 5C 
+5C Meaning of character concern 
+(1) 
+For the purposes of this Act, a non-citizen is of character concern if: 
+
+(a) 
+the non-citizen has a substantial criminal record (as defined by subsection (2)); or 
+
+(b) 
+the non-citizen has been convicted of an offence that was committed: 
+
+(i) 
+while the non-citizen was in immigration detention; or 
+
+(ii) 
+during an escape by the non-citizen from immigration detention; or 
+
+
+(iii) after the non-citizen escaped from immigration detention but before the non-citizen was taken into immigration detention again; or 
+(ba) the non-citizen has been convicted of an offence against section 197A; or (bb) the Minister reasonably suspects: 
+(i) 
+that the non-citizen has been or is a member of a group or organisation, or has had or has an association with a group, organisation or person; and 
+
+(ii) 
+that the group, organisation or person has been or is involved in criminal conduct; or 
+
+
+(bc) the Minister reasonably suspects that the non-citizen has been or is involved in conduct constituting one or more of the following: 
+(i) 
+an offence under one or more of sections 233A to 234A (people smuggling); 
+
+(ii) 
+an offence of trafficking in persons; 
+
+
+(iii) the crime of genocide, a crime against humanity, a war crime, a crime involving torture or slavery or a crime that is otherwise of serious international concern; 
+whether or not the non-citizen, or another person, has been convicted of an offence constituted by the conduct; or 
+(c) 
+having regard to either or both of the following: 
+
+(i) 
+the non-citizens past and present criminal conduct; 
+
+(ii) 
+the non-citizens past and present general conduct; 
+
+
+Migration Act 1958 
+Part 1  Preliminary Section 5C 
+the non-citizen is not of good character; or 
+(d) 
+in the event that the non-citizen were allowed to enter or to remain in Australia, there is a risk that the non-citizen would: 
+
+(i) 
+engage in criminal conduct in Australia; or 
+
+(ii) 
+harass, molest, intimidate or stalk another person in Australia; or 
+
+
+(iii) vilify a segment of the Australian community; or 
+(iv) 
+incite discord in the Australian community or in a segment of that community; or 
+
+(v) 
+represent a danger to the Australian community or to a segment of that community, whether by way of being liable to become involved in activities that are disruptive to, or in violence threatening harm to, that community or segment, or in any other way; or 
+
+(e) 
+a court in Australia or a foreign country has: 
+
+(i) 
+convicted the non-citizen of one or more sexually based offences involving a child; or 
+
+(ii) 
+found the non-citizen guilty of such an offence, or found a charge against the non-citizen proved for such an offence, even if the non-citizen was discharged without a conviction; or 
+
+(f) 
+the non-citizen has, in Australia or a foreign country, been charged with or indicted for one or more of the following: 
+
+(i) 
+the crime of genocide; 
+
+(ii) 
+a crime against humanity; 
+
+
+(iii) a war crime; 
+(iv) 
+a crime involving torture or slavery; 
+
+(v) 
+a crime that is otherwise of serious international concern; or 
+
+(g) 
+the non-citizen has been assessed by the Australian Security Intelligence Organisation to be directly or indirectly a risk to security (within the meaning of section 4 of the Australian Security Intelligence Organisation Act 1979); or 
+
+(h) 
+an Interpol notice in relation to the non-citizen, from which it is reasonable to infer that the non-citizen would present a risk 
+
+
+Migration Act 1958 
+Preliminary  Part 1 Section 5CA 
+to the Australian community or a segment of that community, is in force. 
+(2) 
+For the purposes of subsection (1), a non-citizen has a substantial criminal record if: 
+
+(a) 
+the non-citizen has been sentenced to death; or 
+
+(b) 
+the non-citizen has been sentenced to imprisonment for life; or 
+
+(c) 
+the non-citizen has been sentenced to a term of imprisonment of 12 months or more; or 
+
+(d) 
+the non-citizen has been sentenced to 2 or more terms of imprisonment, where the total of those terms is 12 months or more; or 
+
+(e) 
+the non-citizen has been acquitted of an offence on the grounds of unsoundness of mind or insanity, and as a result the person has been detained in a facility or institution; or 
+
+(f) 
+the non-citizen has: 
+
+(i) 
+been found by a court to not be fit to plead, in relation to an offence; and 
+
+(ii) 
+the court has nonetheless found that on the evidence available the non-citizen committed the offence; and 
+
+
+(iii) as a result, the non-citizen has been detained in a facility or institution. 
+5CA Child of a person 
+(1) 
+Without limiting who is a child of a person for the purposes of this Act, each of the following is the child of a person: 
+
+(a) 
+someone who is a child of the person within the meaning of the Family Law Act 1975 (other than someone who is an adopted child of the person within the meaning of that Act); 
+
+(b) 
+someone who is an adopted child of the person within the meaning of this Act. 
+
+(2) 
+The regulations may provide that, for the purposes of this Act, a person specified by the regulations is not a child of another person specified by the regulations in circumstances in which the person 
+
+
+Migration Act 1958 
+Part 1  Preliminary Section 5CB 
+would, apart from this subsection, be the child of more than 2 persons for the purposes of this Act. 
+(3) Subsection (2), and regulations made for the purposes of that subsection, have effect whether the person specified as not being a child of another person would, apart from that subsection and those regulations, be the child of the other person because of subsection (1) or otherwise. 
+5CB De facto partner 
+De facto partners 
+(1) For the purposes of this Act, a person is the de facto partner of another person (whether of the same sex or a different sex) if, under subsection (2), the person is in a de facto relationship with the other person. 
+De facto relationship 
+(2) 
+For the purposes of subsection (1), a person is in a de facto relationship with another person if they are not in a married relationship (for the purposes of section 5F) with each other but: 
+
+(a) 
+they have a mutual commitment to a shared life to the exclusion of all others; and 
+
+(b) 
+the relationship between them is genuine and continuing; and 
+
+(c) 
+they: 
+
+(i) 
+live together; or 
+
+(ii) 
+do not live separately and apart on a permanent basis; and 
+
+(d) 
+they are not related by family (see subsection (4)). 
+
+(3) 
+The regulations may make provision in relation to the determination of whether one or more of the conditions in paragraphs (2)(a), (b), (c) and (d) exist. The regulations may make different provision in relation to the determination for different purposes whether one or more of those conditions exist. 
+
+
+Migration Act 1958 
+Preliminary  Part 1 Section 5D 
+Definition 
+(4) 
+For the purposes of paragraph (2)(d), 2 persons are related by family if: 
+
+(a) 
+one is the child (including an adopted child) of the other; or 
+
+(b) 
+one is another descendant of the other (even if the relationship between them is traced through an adoptive parent); or 
+
+(c) 
+they have a parent in common (who may be an adoptive 
+
+
+parent of either or both of them). For this purpose, disregard whether an adoption is declared void or has ceased to have effect. 
+5D Limiting the types of identification tests that authorised officers may carry out 
+(1) 
+The Minister, Secretary or Australian Border Force Commissioner may, in an instrument authorising an officer as an authorised officer for the purposes of carrying out identification tests under this Act, specify the types of identification tests that the authorised officer may carry out. 
+
+(2) 
+Such an authorised officer is not an authorised officer in relation to carrying out an identification test that is not of a type so specified. 
+
+
+5E Meaning of purported privative clause decision 
+(1) 
+In this Act, purported privative clause decision means a decision purportedly made, proposed to be made, or required to be made, under this Act or under a regulation or other instrument made under this Act (whether in purported exercise of a discretion or not), that would be a privative clause decision if there were not: 
+
+(a) 
+a failure to exercise jurisdiction; or 
+
+(b) 
+an excess of jurisdiction; in the making of the decision. 
+
+(2) 
+In this section, decision includes anything listed in subsection 474(3). 
+
+
+Migration Act 1958 
+Part 1  Preliminary Section 5F 
+5F Spouse 
+(1) 
+For the purposes of this Act, a person is the spouse of another person (whether of the same sex or a different sex) if, under subsection (2), the 2 persons are in a married relationship. 
+
+(2) 
+For the purposes of subsection (1), persons are in a married relationship if: 
+
+(a) 
+they are married to each other under a marriage that is valid for the purposes of this Act; and 
+
+(b) 
+they have a mutual commitment to a shared life as a married couple to the exclusion of all others; and 
+
+(c) 
+the relationship between them is genuine and continuing; and 
+
+(d) 
+they: 
+
+(i) 
+live together; or 
+
+(ii) 
+do not live separately and apart on a permanent basis. 
+
+(3) 
+The regulations may make provision in relation to the determination of whether one or more of the conditions in paragraphs (2)(a), (b), (c) and (d) exist. The regulations may make different provision in relation to the determination for different purposes whether one or more of those conditions exist. 
+
+
+Note: Section 12 also affects the determination of whether the condition in paragraph (2)(a) of this section exists. 
+5G Relationships and family members 
+(1) 
+For the purposes of this Act, if one person is the child of another person because of the definition of child in section 5CA, relationships traced to or through that person are to be determined on the basis that the person is the child of the other person. 
+
+(2) 
+For the purposes of this Act, the members of a persons family and relatives of a person are taken to include the following: 
+
+(a) 
+a de facto partner of the person; 
+
+(b) 
+someone who is the child of the person, or of whom the person is the child, because of the definition of child in section 5CA; 
+
+
+Migration Act 1958 
+Preliminary  Part 1 Section 5H 
+(c) anyone else who would be a member of the persons family or a relative of the person if someone mentioned in paragraph (a) or (b) is taken to be a member of the persons family or a relative of the person. 
+This does not limit who is a member of a persons family or relative of a person. 
+5H Meaning of refugee 
+(1) 
+For the purposes of the application of this Act and the regulations to a particular person in Australia, the person is a refugee if the person: 
+
+(a) 
+in a case where the person has a nationalityis outside the country of his or her nationality and, owing to a well-founded fear of persecution, is unable or unwilling to avail himself or herself of the protection of that country; or 
+
+(b) 
+in a case where the person does not have a nationalityis outside the country of his or her former habitual residence and owing to a well-founded fear of persecution, is unable or unwilling to return to it. 
+
+
+Note: For the meaning of well-founded fear of persecution, see section 5J. 
+(2) 
+Subsection (1) does not apply if the Minister has serious reasons for considering that: 
+
+(a) 
+the person has committed a crime against peace, a war crime or a crime against humanity, as defined by international instruments prescribed by the regulations; or 
+
+(b) 
+the person committed a serious non-political crime before entering Australia; or 
+
+(c) 
+the person has been guilty of acts contrary to the purposes and principles of the United Nations. 
+
+
+5J Meaning of well-founded fear of persecution 
+(1) For the purposes of the application of this Act and the regulations to a particular person, the person has a well-founded fear of persecution if: 
+Migration Act 1958 
+Part 1  Preliminary 
+Section 5J 
+(a) 
+the person fears being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion; and 
+
+(b) 
+there is a real chance that, if the person returned to the receiving country, the person would be persecuted for one or more of the reasons mentioned in paragraph (a); and 
+
+(c) 
+the real chance of persecution relates to all areas of a receiving country. 
+
+
+Note: For membership of a particular social group, see sections 5K and 5L. 
+(2) A person does not have a well-founded fear of persecution if effective protection measures are available to the person in a receiving country. 
+Note: For effective protection measures, see section 5LA. 
+(3) 
+A person does not have a well-founded fear of persecution if the person could take reasonable steps to modify his or her behaviour so as to avoid a real chance of persecution in a receiving country, other than a modification that would: 
+
+(a) 
+conflict with a characteristic that is fundamental to the persons identity or conscience; or 
+
+(b) 
+conceal an innate or immutable characteristic of the person; or 
+
+(c) 
+without limiting paragraph (a) or (b), require the person to do any of the following: 
+
+(i) 
+alter his or her religious beliefs, including by renouncing a religious conversion, or conceal his or her true religious beliefs, or cease to be involved in the practice of his or her faith; 
+
+(ii) 
+conceal his or her true race, ethnicity, nationality or country of origin; 
+
+
+(iii) alter his or her political beliefs or conceal his or her true political beliefs; 
+(iv) conceal a physical, psychological or intellectual disability; 
+Migration Act 1958 
+Preliminary  Part 1 
+Section 5J 
+(v) 
+enter into or remain in a marriage to which that person is opposed, or accept the forced marriage of a child; 
+
+(vi) 
+alter his or her sexual orientation or gender identity or conceal his or her true sexual orientation, gender identity or intersex status. 
+
+(4) 
+If a person fears persecution for one or more of the reasons mentioned in paragraph (1)(a): 
+
+(a) 
+that reason must be the essential and significant reason, or those reasons must be the essential and significant reasons, for the persecution; and 
+
+(b) 
+the persecution must involve serious harm to the person; and 
+
+(c) 
+the persecution must involve systematic and discriminatory conduct. 
+
+(5) 
+Without limiting what is serious harm for the purposes of paragraph (4)(b), the following are instances of serious harm for the purposes of that paragraph: 
+
+(a) 
+a threat to the persons life or liberty; 
+
+(b) 
+significant physical harassment of the person; 
+
+(c) 
+significant physical ill-treatment of the person; 
+
+(d) 
+significant economic hardship that threatens the persons capacity to subsist; 
+
+(e) 
+denial of access to basic services, where the denial threatens the persons capacity to subsist; 
+
+(f) 
+denial of capacity to earn a livelihood of any kind, where the denial threatens the persons capacity to subsist. 
+
+(6) 
+In determining whether the person has a well-founded fear of persecution for one or more of the reasons mentioned in paragraph (1)(a), any conduct engaged in by the person in Australia is to be disregarded unless the person satisfies the Minister that the person engaged in the conduct otherwise than for the purpose of strengthening the persons claim to be a refugee. 
+
+
+Migration Act 1958 
+Part 1  Preliminary Section 5K 
+5K Membership of a particular social group consisting of family 
+For the purposes of the application of this Act and the regulations to a particular person (the first person), in determining whether the first person has a well-founded fear of persecution for the reason of membership of a particular social group that consists of the first persons family: 
+(a) 
+disregard any fear of persecution, or any persecution, that any other member or former member (whether alive or dead) of the family has ever experienced, where the reason for the fear or persecution is not a reason mentioned in paragraph 5J(1)(a); and 
+
+(b) 
+disregard any fear of persecution, or any persecution, that: 
+
+(i) 
+the first person has ever experienced; or 
+
+(ii) 
+any other member or former member (whether alive or 
+
+
+dead) of the family has ever experienced; where it is reasonable to conclude that the fear or persecution would not exist if it were assumed that the fear or persecution mentioned in paragraph (a) had never existed. 
+Note: Section 5G may be relevant for determining family relationships for the purposes of this section. 
+5L Membership of a particular social group other than family 
+For the purposes of the application of this Act and the regulations to a particular person, the person is to be treated as a member of a particular social group (other than the persons family) if: 
+(a) 
+a characteristic is shared by each member of the group; and 
+
+(b) 
+the person shares, or is perceived as sharing, the characteristic; and 
+
+(c) 
+any of the following apply: 
+
+(i) 
+the characteristic is an innate or immutable characteristic; 
+
+(ii) 
+the characteristic is so fundamental to a members identity or conscience, the member should not be forced to renounce it; 
+
+
+Migration Act 1958 
+Preliminary  Part 1 Section 5LA 
+(iii) the characteristic distinguishes the group from society; and 
+(d) the characteristic is not a fear of persecution. 
+5LA Effective protection measures 
+(1) 
+For the purposes of the application of this Act and the regulations to a particular person, effective protection measures are available to the person in a receiving country if: 
+
+(a) 
+protection against persecution could be provided to the person by: 
+
+(i) 
+the relevant State; or 
+
+(ii) 
+a party or organisation, including an international organisation, that controls the relevant State or a substantial part of the territory of the relevant State; and 
+
+(b) 
+the relevant State, party or organisation mentioned in paragraph (a) is willing and able to offer such protection. 
+
+(2) 
+A relevant State, party or organisation mentioned in paragraph (1)(a) is taken to be able to offer protection against persecution to a person if: 
+
+(a) 
+the person can access the protection; and 
+
+(b) 
+the protection is durable; and 
+
+(c) 
+in the case of protection provided by the relevant Statethe protection consists of an appropriate criminal law, a reasonably effective police force and an impartial judicial system. 
+
+
+5M Particularly serious crime 
+For the purposes of the application of this Act and the regulations to a particular person, paragraph 36(1C)(b) has effect as if a reference in that paragraph to a particularly serious crime included a reference to a crime that consists of the commission of: 
+(a) 
+a serious Australian offence; or 
+
+(b) 
+a serious foreign offence. 
+
+
+Migration Act 1958 
+Part 1  Preliminary 
+Section 6 
+6 Effect of limited meaning of enter Australia etc. 
+To avoid doubt, although subsection 5(1) limits, for the purposes of this Act, the meanings of enter Australia, leave Australia and remain in Australia and as well, because of section 18A of the Acts Interpretation Act 1901, the meaning of parts of speech and grammatical forms of those phrases, this does not mean: 
+(a) 
+that, for those purposes, the meaning of in Australia, to Australia or any other phrase is limited; or 
+
+(b) 
+that this Act does not extend to parts of Australia outside the migration zone; or 
+
+(c) 
+that this Act does not apply to persons in those parts. 
+
+
+Note: See also subsection 9A(3), which deals with when a person is taken to be in Australia, to travel to Australia, to enter Australia or to leave Australia. Section 9A concerns offshore resources activities. 
+7 Act to extend to certain Territories 
+(1) 
+In this section, prescribed Territory means Norfolk Island, the Coral Sea Islands Territory, the Territory of Cocos (Keeling) Islands, the Territory of Christmas Island and the Territory of Ashmore and Cartier Islands. 
+
+(2) 
+This Act extends to a prescribed Territory. 
+
+(3) 
+Subject to this Act, a prescribed Territory: 
+
+(a) 
+shall be deemed to be part of Australia for the purposes of this Act; and 
+
+(b) 
+shall be deemed not to be a place outside Australia. 
+
+
+7A Effect on executive power to protect Australias borders 
+The existence of statutory powers under this Act does not prevent the exercise of any executive power of the Commonwealth to protect Australias borders, including, where necessary, by ejecting persons who have crossed those borders. 
+Migration Act 1958 
+Preliminary  Part 1 
+Section 8 
+8 Certain resources installations to be part of Australia 
+(1) 
+For the purposes of this Act, a resources installation that: 
+
+(a) 
+becomes attached to the Australian seabed after the commencement of this subsection; or 
+
+(b) 
+at the commencement of this subsection, is attached to the 
+
+
+Australian seabed; shall, subject to subsection (2), be deemed to be part of Australia and shall be deemed not to be a place outside Australia. 
+(2) 
+A resources installation that is deemed to be part of Australia by virtue of the operation of this section shall, for the purposes of this Act, cease to be part of Australia if: 
+
+(a) 
+the installation is detached from the Australian seabed, or from another resources installation that is attached to the Australian seabed, for the purpose of being taken to a place outside the outer limits of Australian waters (whether or not the installation is to be taken to a place in Australia before being taken outside those outer limits); or 
+
+(b) 
+after having been detached from the Australian seabed otherwise than for the purpose referred to in paragraph (a), the installation is moved for the purpose of being taken to a place outside the outer limits of Australian waters (whether or not the installation is to be taken to a place in Australia before being taken outside those outer limits). 
+
+
+9 Certain sea installations to be part of Australia 
+(1) 
+For the purposes of this Act, a sea installation that: 
+
+(a) 
+becomes installed in an adjacent area or in a coastal area after the commencement of this subsection; or 
+
+(b) 
+at the commencement of this subsection, is installed in an 
+
+
+adjacent area or in a coastal area; shall, subject to subsection (2), be deemed to be part of Australia and shall be deemed not to be a place outside Australia. 
+Migration Act 1958 
+Part 1  Preliminary Section 9A 
+(2) 
+A sea installation that is deemed to be part of Australia because of the operation of this section shall, for the purposes of this Act, cease to be part of Australia if: 
+
+(a) 
+the installation is detached from its location for the purpose of being taken to a place outside the outer limits of Australian waters; or 
+
+(b) 
+after having been detached from its location otherwise than for the purpose referred to in paragraph (a), the installation is moved for the purpose of being taken to a place outside the outer limits of Australian waters. 
+
+
+9A Migration zone etc.offshore resources activities 
+Migration zone etc. 
+(1) For the purposes of this Act, a person is taken to be in the migration zone while he or she is in an area to participate in, or to support, an offshore resources activity in relation to that area. 
+Example 1: A person is taken to be in the migration zone under this section if the person is on a vessel in an area to participate in an offshore resources activity under the Offshore Petroleum and Greenhouse Gas Storage Act 2006 in that area by exploring for, or recovering, petroleum. 
+Example 2: A person who is a member of the crew of the vessel is also taken to be in the migration zone under this section if the person is supporting the offshore resources activity. 
+Example 3: Neither a stowaway on the vessel, nor a person on the vessel because the person was rescued at sea, is taken to be in the migration zone, because neither is participating in, or supporting, the offshore resources activity. 
+(2) 
+To avoid doubt, a person may be taken to be in the migration zone under subsection (1): 
+
+(a) 
+whether or not the persons participation in, or support of, an offshore resources activity in the area concerned has started, is continuing or has concluded; and 
+
+(b) 
+whether or not the offshore resources activity concerned has started, is continuing or has concluded. 
+
+(3) 
+For the purposes of this Act: 
+
+
+Migration Act 1958 
+Preliminary  Part 1 Section 9A 
+(a) 
+a person is taken to be in Australia while he or she is taken to be in the migration zone because of subsection (1); and 
+
+(b) 
+a person is taken to travel to Australia if the person travels to an area in which the person is taken to be in the migration zone because of subsection (1); and 
+
+(c) 
+a person is taken to enter Australia when the person enters an area in which the person is taken to be in the migration zone because of subsection (1); and 
+
+(d) 
+subject to section 80a person is taken to leave Australia when the person leaves an area in which the person is taken to be in the migration zone because of subsection (1). 
+
+(4) 
+Unless a provision of this Act, or another Act, expressly provides otherwise, this section does not have the effect of extending, for the purposes of another Act, the circumstances in which a person: 
+
+(a) 
+is in the migration zone or is taken to be in the migration zone; or 
+
+(b) 
+is in Australia or is taken to be in Australia; or 
+
+(c) 
+travels to Australia or is taken to travel to Australia; or 
+
+(d) 
+enters Australia or is taken to enter Australia; or 
+
+(e) 
+leaves Australia or is taken to leave Australia. 
+
+
+Meaning of offshore resources activity 
+(5) In this section: 
+offshore resources activity, in relation to an area, means: 
+(a) 
+a regulated operation (within the meaning of section 7 of the Offshore Petroleum and Greenhouse Gas Storage Act 2006) that is being carried out, or is to be carried out, within the area, except an operation determined by the Minister under subsection (6); or 
+
+(b) 
+an activity performed under a licence or a special purpose consent (both within the meaning of section 4 of the Offshore Minerals Act 1994) that is being carried out, or is to be carried out, within the area, except an activity determined by the Minister under subsection (6); or 
+
+
+Migration Act 1958 
+Part 1  Preliminary Section 10 
+(c) 
+an activity, operation or undertaking (however described) that is being carried out, or is to be carried out: 
+
+(i) 
+under a law of the Commonwealth, a State or a Territory determined by the Minister under subsection (6); and 
+
+(ii) 
+within the area, as determined by the Minister under subsection (6). 
+
+(6) 
+The Minister may, in writing, make a determination for the purposes of the definition of offshore resources activity in subsection (5). 
+
+(7) 
+A determination made under subsection (6) is a legislative instrument, but section 42 (disallowance) of the Legislation Act 2003 does not apply to the determination. 
+
+(8) 
+To avoid doubt, for the purposes of subsection (1), a person may participate in, or support, an offshore resources activity in relation to an area whether the person: 
+
+(a) 
+is on an Australian resources installation in the area; or 
+
+(b) 
+is otherwise in the area to participate in, or support, the activity. 
+
+
+10 Certain children taken to enter Australia at birth 
+A child who: 
+(a) 
+was born in the migration zone; and 
+
+(b) 
+was a non-citizen when he or she was born; shall be taken to have entered Australia when he or she was born. 
+
+
+11 Visa applicable to 2 or more persons 
+Where: 
+(a) 2 or more persons who are the holders of the same visa travel to Australia on board the same vessel; and 
+Migration Act 1958 
+Preliminary  Part 1 Section 11A 
+(b) on entering Australia, one of those persons is in possession of 
+evidence of that visa; each of them shall, for the purposes of this Act, be taken to be in possession of that evidence on entering Australia. 
+11A When applications under this Act are finally determined 
+(1) 
+An application under this Act is finally determined when: 
+
+(a) 
+a decision that has been made in respect of the application is not, or is no longer, subject to any form of review by application to the ART under Part 5; or 
+
+(b) 
+a decision that has been made in respect of the application was subject to some form of review by application to the ART under Part 5 but the period within which such a review could be instituted has ended without a review having been instituted as prescribed. 
+
+(2) 
+If a review of a decision that has been made in respect of an application under this Act is instituted by application to the ART under Part 5 as prescribed, the application is finally determined when a decision on review in respect of the application is taken to have been made as provided by the following provisions: 
+
+(a) 
+if the decision on review is made under section 105 of the ART Act or paragraph 368C(3)(b) or subsection 368C(5) of this Actsection 368 of this Act; 
+
+(b) 
+if the application for review is dismissed under the ART Act and an application for reinstatement cannot be made under section 368C of this Actsection 368B of this Act. 
+
+(3) 
+However, subsection (2) does not apply in relation to a decision of the ART to remit a reviewable migration decision or a reviewable protection decision under subsection 349(2). 
+
+
+12 Application of Part VA of the Marriage Act 
+For the purpose of deciding whether a marriage is to be recognised as valid for the purposes of this Act, Part VA of the Marriage Act 1961 applies as if section 88E of that Act were omitted. 
+Migration Act 1958 
+Part 2  Arrival, presence and departure of persons Division 1  Immigration status 
+Section 13 
+Part 2Arrival, presence and departure of persons 
+Division 1Immigration status 
+13 Lawful non-citizens 
+(1) 
+A non-citizen in the migration zone who holds a visa that is in effect is a lawful non-citizen. 
+
+(2) 
+An allowed inhabitant of the Protected Zone who is in a protected area in connection with the performance of traditional activities is a lawful non-citizen. 
+
+
+14 Unlawful non-citizens 
+(1) 
+A non-citizen in the migration zone who is not a lawful non-citizen is an unlawful non-citizen. 
+
+(2) 
+To avoid doubt, a non-citizen in the migration zone who, immediately before 1 September 1994, was an illegal entrant within the meaning of the Migration Act as in force then became, on that date, an unlawful non-citizen. 
+
+
+15 Effect of cancellation of visa on status 
+To avoid doubt, subject to subsection 13(2) (certain inhabitants of protected zone), if a visa is cancelled its former holder, if in the migration zone, becomes, on the cancellation, an unlawful non-citizen unless, immediately after the cancellation, the former holder holds another visa that is in effect. 
+16 Removal of immigration rights of inhabitant of Protected Zone 
+The Minister may declare, in writing, that it is undesirable that a specified inhabitant of the Protected Zone continue to be permitted to enter or remain in Australia. 
+Migration Act 1958 
+Arrival, presence and departure of persons  Part 2 Immigration status Division 1 
+Section 17 
+17 Pre-cleared flights 
+(1) 
+The Minister may, in writing, declare a specified flight by an aircraft on a specified day between a specified foreign country and Australia to be a pre-cleared flight for the purposes of this Act. 
+
+(2) 
+The Minister may declare, in writing, a specified class of flights conducted by a specified air transport enterprise or by another specified person to be pre-cleared flights for the purposes of this Act. 
+
+(3) 
+A particular flight to which a declaration under subsection (1) or 
+
+(2)
+ applies is not a pre-cleared flight if an authorised officer decides, before the passengers on it disembark in Australia, that it is inappropriate to treat it as such. 
+
+
+Migration Act 1958 
+Part 2  Arrival, presence and departure of persons Division 2  Power to obtain information and documents about unlawful non-citizens 
+Section 18 
+Division 2Power to obtain information and documents about unlawful non-citizens 
+18 Power to obtain information and documents about unlawful non-citizens 
+(1) 
+If the Minister has reason to believe that a person (in this subsection called the first person) is capable of giving information which the Minister has reason to believe is, or producing documents (including documents that are copies of other documents) which the Minister has reason to believe are, relevant to ascertaining the identity or whereabouts of another person whom the Minister has reason to believe is an unlawful non-citizen, the Minister may, by notice in writing served on the first person, require the first person: 
+
+(a) 
+to give to the Minister, within the period and in the manner specified in the notice, any such information; or 
+
+(b) 
+to produce to the Minister, within the period and in the manner specified in the notice, any such documents; or 
+
+(c) 
+to make copies of any such documents and to produce to the Minister, within the period and in the manner specified in the notice, those copies. 
+
+(2) 
+A notice under subsection (1) must set out the effects of section 21 of this Act and sections 137.1 and 137.2 of the Criminal Code. 
+
+
+19 Scales of expenses 
+The regulations may prescribe scales of expenses to be allowed to persons required to give information or produce documents under this Division. 
+20 Reasonable compensation 
+A person is entitled to be paid by the Commonwealth reasonable compensation for complying with a requirement covered by paragraph 18(1)(c). 
+Migration Act 1958 
+Arrival, presence and departure of persons  Part 2 Power to obtain information and documents about unlawful non-citizens Division 2 
+Section 21 
+21 Failure to comply with section 18 notice 
+(1) A person must not refuse or fail to comply with a notice under subsection 18(1). 
+(1A) Subsection (1) does not apply: 
+(a) 
+to the extent that the person is not capable of complying with the notice; or 
+
+(b) 
+if the person has a reasonable excuse. 
+
+
+Note: A defendant bears an evidential burden in relation to the matters in subsection (1A) (see subsection 13.3(3) of the Criminal Code). 
+(2) 
+The following are 2 of the reasonable excuses for refusing or failing to comply with a notice: 
+
+(a) 
+the person whom the Minister had reason to believe was an unlawful non-citizen was not an unlawful non-citizen at the time the notice was given; 
+
+(b) 
+the information or documents which the Minister had reason to believe were relevant to ascertaining the identity or whereabouts of a person were not relevant to ascertaining the identity or whereabouts of the person. 
+
+(3) 
+An offence against subsection (1) is an offence of strict liability. 
+
+
+Note: For strict liability, see section 6.1 of the Criminal Code. 
+Penalty: Imprisonment for 6 months. 
+24 Information and documents that incriminate a person 
+A person is not excused from giving information or producing a document or a copy of a document under this Division on the ground that the information or the production of the document or copy might tend to incriminate the person, but: 
+(a) 
+giving the information or producing the document or copy; or 
+
+(b) 
+any information, document or thing obtained as a direct or indirect consequence of giving the information or producing the document or copy; 
+
+
+Migration Act 1958 
+Part 2  Arrival, presence and departure of persons Division 2  Power to obtain information and documents about unlawful non-citizens 
+Section 25 
+is not admissible in evidence against the person in any criminal proceedings other than a prosecution for: 
+(c) 
+an offence against, or arising out of, this Division; or 
+
+(d) 
+an offence against section 137.1 or 137.2 of the Criminal Code that relates to this Division. 
+
+
+25 Copies of documents 
+(1) 
+The Minister may inspect a document or copy produced under this Division and may make and retain copies of, or take and retain extracts from, such a document or copy. 
+
+(2) 
+The Minister may retain possession of a copy of a document produced in accordance with a requirement covered by paragraph 18(1)(c). 
+
+
+26 Minister may retain documents 
+(1) 
+The Minister may, for the purposes of this Act, take, and retain for as long as is necessary for those purposes, possession of a document produced under this Division. 
+
+(2) 
+The person otherwise entitled to possession of the document is entitled to be supplied, as soon as practicable, with a copy certified by the Minister to be a true copy. 
+
+(3) 
+The certified copy must be received in all courts and tribunals as evidence as if it were the original. 
+
+(4) 
+Until a certified copy is supplied, the Minister must, at such times and places as the Minister thinks appropriate, permit the person otherwise entitled to possession of the document, or a person authorised by that person, to inspect and make copies of, or take extracts from, the document. 
+
+
+Migration Act 1958 
+Arrival, presence and departure of persons  Part 2 Power to obtain information and documents about unlawful non-citizens Division 2 
+Section 27 
+27 Division binds the Crown 
+(1) 
+This Division binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory. 
+
+(2) 
+Nothing in this Division permits the Crown in right of the Commonwealth, of a State, of the Australian Capital Territory or of the Northern Territory to be prosecuted for an offence. 
+
+
+Migration Act 1958 
+Part 2  Arrival, presence and departure of persons Division 3  Visas for non-citizens 
+Section 28 
+Division 3Visas for non-citizens 
+Subdivision AGeneral provisions about visas 
+28 Interpretation 
+In this Division: 
+specified period includes the period until a specified date. 
+29 Visas 
+(1) 
+Subject to this Act, the Minister may grant a non-citizen permission, to be known as a visa, to do either or both of the following: 
+
+(a) 
+travel to and enter Australia; 
+
+(b) 
+remain in Australia. 
+
+
+Note: A maritime crew visa is generally permission to travel to and enter Australia only by sea (as well as being permission to remain in Australia) (see section 38B). 
+(2) 
+Without limiting subsection (1), a visa to travel to, enter and remain in Australia may be one to: 
+
+(a) 
+travel to and enter Australia during a prescribed or specified period; and 
+
+(b) 
+if, and only if, the holder travels to and enters during that period, remain in Australia during a prescribed or specified period or indefinitely. 
+
+(3) 
+Without limiting subsection (1), a visa to travel to, enter and remain in Australia may be one to: 
+
+(a) 
+travel to and enter Australia during a prescribed or specified period; and 
+
+(b) 
+if, and only if, the holder travels to and enters during that period: 
+
+(i) 
+remain in it during a prescribed or specified period or indefinitely; and 
+
+
+Migration Act 1958 
+Arrival, presence and departure of persons  Part 2 Visas for non-citizens  Division 3 
+Section 30 
+(ii) 
+if the holder leaves Australia during a prescribed or specified period, travel to and re-enter it during a prescribed or specified period. 
+
+(4) 
+Without limiting section 83 (person taken to be included in visa), the regulations may provide for a visa being held by 2 or more persons. 
+
+
+30 Kinds of visas 
+(1) 
+A visa to remain in Australia (whether also a visa to travel to and enter Australia) may be a visa, to be known as a permanent visa, to remain indefinitely. 
+
+(2) 
+A visa to remain in Australia (whether also a visa to travel to and enter Australia) may be a visa, to be known as a temporary visa, to remain: 
+
+(a) 
+during a specified period; or 
+
+(b) 
+until a specified event happens; or 
+
+(c) 
+while the holder has a specified status. 
+
+
+31 Classes of visas 
+(1) There are to be prescribed classes of visas. 
+Note: See also subsection 35A(4), which allows additional classes of permanent and temporary visas to be prescribed as protection visas by regulations made for the purposes of this subsection. 
+(2) 
+As well as the prescribed classes, there are the classes provided for by the following provisions: 
+
+(a) 
+section 32 (special category visas); 
+
+(b) 
+section 33 (special purpose visas); 
+
+(c) 
+section 34 (absorbed person visas); 
+
+(d) 
+section 35 (ex-citizen visas); 
+
+(e) 
+subsection 35A(2) (permanent protection visas); 
+
+(f) 
+subsection 35A(3) (temporary protection visas); (fa) subsection 35A(3A) (safe haven enterprise visas); 
+
+
+Migration Act 1958 
+Part 2  Arrival, presence and departure of persons Division 3  Visas for non-citizens 
+Section 31 
+(g) 
+section 37 (bridging visas); 
+
+(h) 
+section 37A (temporary safe haven visas); 
+
+(i) 
+section 38 (criminal justice visas); 
+
+(j) 
+section 38A (enforcement visas); 
+
+(k) 
+section 38B (maritime crew visas). 
+
+(3) 
+The regulations may prescribe criteria for a visa or visas of a specified class (which, without limiting the generality of this subsection, may be a class provided for by section 32, 35A, 37, 37A or 38B but not by section 33, 34, 35, 38 or 38A). 
+
+
+(3A) To avoid doubt, subsection (3) does not require criteria to be prescribed for a visa or visas including, without limitation, visas of the following classes: 
+(a) 
+special category visas (see section 32); 
+
+(b) 
+permanent protection visas (see subsection 35A(2)); 
+
+(c) 
+temporary protection visas (see subsection 35A(3)); (ca) safe haven enterprise visas (see subsection 35A(3A)); 
+
+(d) 
+bridging visas (see section 37); 
+
+(e) 
+temporary safe haven visas (see section 37A); 
+
+(f) 
+maritime crew visas (see section 38B). 
+
+
+Note 1: An application for any of these visas is invalid if criteria relating to both the application and the grant of the visa have not been prescribed (see subsection 46AA(2)). 
+Note 2: If criteria are prescribed by the regulations for any of these visas, the visa cannot be granted unless any criteria prescribed by this Act, as well as any prescribed by regulation, are satisfied (see subsection 46AA(4)). 
+(4) 
+The regulations may prescribe whether visas of a class are visas to travel to and enter Australia, or to remain in Australia, or both. 
+
+(5) 
+A visa is a visa of a particular class if this Act or the regulations specify that it is a visa of that class. 
+
+
+Migration Act 1958 
+Arrival, presence and departure of persons  Part 2 Visas for non-citizens  Division 3 
+Section 32 
+32 Special category visas 
+(1) 
+There is a class of temporary visas to be known as special category visas. 
+
+(2) 
+A criterion for a special category visa is that the Minister is satisfied the applicant is: 
+
+(a) 
+a non-citizen: 
+
+(i) 
+who is a New Zealand citizen and holds, and has presented to an officer or an authorised system, a New Zealand passport that is in force; and 
+
+(ii) 
+is neither a behaviour concern non-citizen nor a health concern non-citizen; or 
+
+(b) 
+a person declared by the regulations, to be a person for whom a visa of another class would be inappropriate; or 
+
+(c) 
+a person in a class of persons declared by the regulations, to be persons for whom a visa of another class would be inappropriate. 
+
+(3) 
+A person may comply with subparagraph (2)(a)(i) by presenting a New Zealand passport to an authorised system only if: 
+
+(a) 
+the New Zealand passport is of a kind determined under section 175A to be an eligible passport for the purposes of Division 5 of Part 2; and 
+
+(c) 
+before the person is granted a special category visa, neither the system nor an officer requires the person to present the passport to an officer. 
+
+
+33 Special purpose visas 
+(1) 
+There is a class of temporary visas to travel to, enter and remain in Australia, to be known as special purpose visas. 
+
+(2) 
+Subject to subsection (3), a non-citizen is taken to have been granted a special purpose visa if: 
+
+(a) 
+the non-citizen: 
+
+(i) 
+has a prescribed status; or 
+
+
+Migration Act 1958 
+Part 2  Arrival, presence and departure of persons Division 3  Visas for non-citizens 
+Section 33 
+(ii) 
+is a member of a class of persons that has a prescribed status; or 
+
+(b) 
+the Minister declares, in writing, that: 
+
+(i) 
+the non-citizen is taken to have been granted a special purpose visa; or 
+
+(ii) 
+persons of a class, of which the non-citizen is a member, are taken to have been granted special purpose visas. 
+
+(3) 
+A non-citizen is not taken to have been granted a special purpose visa if a declaration under subsection (9) is in force in relation to the non-citizen or a class of persons of which the non-citizen is a member. 
+
+(4) 
+A special purpose visa granted under subsection (2) is granted at the beginning of the later or latest of the following days: 
+
+(a) 
+if paragraph (2)(a) applies: 
+
+(i) 
+the day the non-citizen commences to have the prescribed status; 
+
+(ii) 
+the day the class of persons, of which the non-citizen is a member, commences to have the prescribed status; 
+
+
+(iii) the day the non-citizen commences to be a member of the class of persons that has a prescribed status; 
+(b) 
+if paragraph (2)(b) applies: 
+
+(i) 
+the day the declaration is made; 
+
+(ii) 
+if a day is specified in the declaration as the day the visa comes into effectthat day; 
+
+
+(iii) the day the non-citizen commences to be a member of the class of persons specified in the declaration. 
+(5) 
+A special purpose visa ceases to be in effect at the earliest of the following times: 
+
+(a) 
+if paragraph (2)(a) applies: 
+
+(i) 
+if the non-citizen ceases to have a prescribed statusthe end of the day on which the non-citizen so ceases; or 
+
+(ii) 
+if the non-citizen ceases to be a member of a class of persons that has a prescribed statusthe end of the day on which the non-citizen so ceases; or 
+
+
+Migration Act 1958 
+Arrival, presence and departure of persons  Part 2 Visas for non-citizens  Division 3 
+Section 33 
+(iii) if the Minister makes a declaration under subsection (9) in relation to the non-citizen, or a class of persons of which the non-citizen is a memberthe time when that declaration takes effect; 
+(b) 
+if paragraph (2)(b) applies: 
+
+(i) 
+if a day is specified in the declaration as the day the visa ceases to be in effectthe end of that day; or 
+
+(ii) 
+if an event is specified in the declaration as the event that causes the visa to cease to be in effectthe end of the day on which the event happens; or 
+
+
+(iii) if the non-citizen ceases to be a member of a class of persons specified in the declarationthe end of the day on which the non-citizen so ceases; or 
+(iv) 
+if the declaration is revokedthe end of the day of the revocation; or 
+
+(v) 
+if the Minister makes a declaration under subsection (9) in relation to the non-citizen, or a class of persons of which the non-citizen is a memberthe time when that declaration takes effect. 
+
+
+(5A) For the purposes of subsection (5), the time when a declaration made by the Minister under subsection (9) takes effect is: 
+(a) 
+if the Minister specifies a time in the declaration (which must be after the time when the declaration is made) as the time the declaration takes effectthe time so specified; or 
+
+(b) 
+if the Minister does not specify such a time in the declarationthe end of the day on which the declaration is made. 
+
+(6) 
+If the Minister makes a declaration under paragraph (2)(b), he or she is to cause to be laid before each House of the Parliament a statement that: 
+
+(a) 
+sets out the contents of the declaration; and 
+
+(b) 
+sets out the Ministers reasons for the declaration. 
+
+(7) 
+A statement under subsection (6) is not to include: 
+
+(a) 
+the name of the non-citizen; or 
+
+
+Migration Act 1958 
+Part 2  Arrival, presence and departure of persons Division 3  Visas for non-citizens 
+Section 34 
+(b) 
+if the Minister thinks that it would not be in the public interest to publish the name of another person connected in any way with the matter concernedthe name of that other person. 
+
+(8) 
+A statement under subsection (6) is to be laid before each House of the Parliament within 15 sitting days of that House after: 
+
+(a) 
+if the declaration is made between 1 January and 30 June (inclusive) in a year1 July in that year; or 
+
+(b) 
+if the declaration is made between 1 July and 31 December (inclusive) in a year1 January in the following year. 
+
+(9) 
+The Minister may make a written declaration, for the purposes of this section, that it is undesirable that a person, or any persons in a class of persons, travel to and enter Australia or remain in Australia. 
+
+(10) 
+Section 43 and Subdivisions AA, AB, AC (other than section 68), AG, AH, C, D, E, F, FA, FB and H do not apply in relation to special purpose visas. 
+
+
+34 Absorbed person visas 
+(1) 
+There is a class of permanent visas to remain in, but not re-enter, Australia, to be known as absorbed person visas. 
+
+(2) 
+A non-citizen in the migration zone who: 
+
+(a) 
+on 2 April 1984 was in Australia; and 
+
+(b) 
+before that date, had ceased to be an immigrant; and 
+
+(c) 
+on or after that date, has not left Australia, where left Australia has the meaning it had in this Act before 1 September 1994; and 
+
+(d) 
+immediately before 1 September 1994, was not a person to 
+
+
+whom section 20 of this Act as in force then applied; is taken to have been granted an absorbed person visa on 1 September 1994. 
+Migration Act 1958 
+Arrival, presence and departure of persons  Part 2 Visas for non-citizens  Division 3 
+Section 35 
+(3) Subdivisions AA, AB, AC (other than section 68) and AH do not apply in relation to absorbed person visas. 
+35 Ex-citizen visas 
+(1) 
+There is a class of permanent visas to remain in, but not re-enter, Australia, to be known as ex-citizen visas. 
+
+(2) 
+A person who: 
+
+(a) 
+before 1 September 1994, ceased to be an Australian citizen while in the migration zone; and 
+
+(b) 
+did not leave Australia after ceasing to be a citizen and before 
+
+
+that date; is taken to have been granted an ex-citizen visa on that date. 
+(3) 
+A person who, on or after 1 September 1994, ceases to be an Australian citizen while in the migration zone is taken to have been granted an ex-citizen visa when that citizenship ceases. 
+
+(4) 
+Subdivisions AA, AB, AC (other than section 68) and AH do not apply in relation to ex-citizen visas. 
+
+
+35A Protection visasclasses of visas 
+(1) 
+A protection visa is a visa of a class provided for by this section. 
+
+(2) 
+There is a class of permanent visas to be known as permanent protection visas. 
+
+
+Note: These visas were classified by the Migration Regulations 1994 as Protection (Class XA) visas when this section commenced. 
+(3) There is a class of temporary visas to be known as temporary protection visas. 
+Note: These visas were classified by the Migration Regulations 1994 as Temporary Protection (Class XD) visas when this section commenced. 
+(3A) There is a class of temporary visas to be known as safe haven enterprise visas. 
+Migration Act 1958 
+Part 2  Arrival, presence and departure of persons Division 3  Visas for non-citizens 
+Section 36 
+(3B) The purpose of safe haven enterprise visas is both to provide protection and to encourage enterprise through earning and learning while strengthening regional Australia. 
+Note: If a person satisfies the requirements for working, study and accessing social security prescribed for the purposes of paragraph 46A(1A)(c), section 46A will not bar the person from making a valid application for any of the onshore visas prescribed for the purposes of paragraph 46A(1A)(b). This does not include permanent protection visas. 
+(4) 
+Regulations made for the purposes of subsection 3
