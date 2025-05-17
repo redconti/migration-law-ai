@@ -1,24 +1,23 @@
 // pages/api/chatbot.js
-// pages/api/chatbot.js
-
 export default async function handler(req, res) {
-  // ✅ CORS headers
-  res.setHeader("Access-Control-Allow-Origin", "*"); // You can restrict to your domain later
+  // ✅ Add CORS headers
+  res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Methods", "POST, OPTIONS");
   res.setHeader("Access-Control-Allow-Headers", "Content-Type");
 
+  // ✅ Handle preflight requests (CORS)
   if (req.method === "OPTIONS") {
-    return res.status(200).end(); // Respond to preflight request
+    return res.status(200).end();
   }
 
-  if (req.method !== 'POST') {
-    return res.status(405).json({ error: 'Method not allowed' });
+  if (req.method !== "POST") {
+    return res.status(405).json({ error: "Method not allowed" });
   }
 
   const { userInput, lawText } = req.body;
 
   if (!userInput || !lawText) {
-    return res.status(400).json({ error: 'Missing input' });
+    return res.status(400).json({ error: "Missing input" });
   }
 
   try {
@@ -29,11 +28,11 @@ ${lawText}
 
 User Question: ${userInput}`;
 
-    const response = await fetch("https://api.openai.com/v1/chat/completions", {
+    const openaiRes = await fetch("https://api.openai.com/v1/chat/completions", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`,
+        Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
         "OpenAI-Organization": process.env.OPENAI_ORG_ID || ""
       },
       body: JSON.stringify({
@@ -44,11 +43,11 @@ User Question: ${userInput}`;
       })
     });
 
-    const data = await response.json();
+    const data = await openaiRes.json();
     return res.status(200).json(data);
 
-  } catch (error) {
-    console.error("API Error:", error);
+  } catch (err) {
+    console.error("OpenAI API error:", err);
     return res.status(500).json({ error: "Internal server error" });
   }
 }
